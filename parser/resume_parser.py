@@ -9,4 +9,4 @@ def extract_text_from_pdf(uploaded_file):
     for page in doc:
         text += page.get_text()
 
-    return text
+   return text.strip()
