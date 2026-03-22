@@ -1,0 +1,22 @@
+python
+java
+sql
+html
+css
+javascript
+react
+node.js
+mysql
+mongodb
+data structures
+algorithms
+machine learning
+deep learning
+nlp
+tensorflow
+pandas
+numpy
+streamlit
+git
+github
+problem solving
