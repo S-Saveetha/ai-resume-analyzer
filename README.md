@@ -42,7 +42,3 @@ Helps students and job seekers:
 - Improve resume quality  
 - Identify missing skills  
 - Prepare better for job applications  
-
-
-# Run the application
-streamlit run app.py
